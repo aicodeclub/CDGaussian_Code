@@ -1,2 +1,1 @@
-# VoteGS_Code
-VoteGS: Large-Scale 3D Gaussian Splatting Pruning via Neighbor Voting
+# VoteGS: Large-Scale 3D Gaussian Splatting Pruning via Neighbor Voting
