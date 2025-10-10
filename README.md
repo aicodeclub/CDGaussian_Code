@@ -32,7 +32,7 @@ _<h4>Large-Scale 3D Gaussian Splatting Pruning via Neighbor Voting</h4>_
 
 We propose **VoteGS**, a novel pruning framework for large-scale 3DGS that integrates neighbor voting, merging similar
 Gaussians, cross-GPU probability synchronization, PSNR-based evaluation feedback to address core challenges in
-the field. Our framework achieves up to 5× model-size compression during training while maintaining high rendering quality,
+the field. Our framework achieves up to **5×** model-size compression during training while maintaining high rendering quality,
 regardless of scene scale. Extensive experiments demonstrate that VoteGS surpasses all existing methods, indicating strong potential for 3D reconstruction.
 
 ## Setup
@@ -70,7 +70,7 @@ torchrun --standalone --nnodes=1 --nproc-per-node=2 train.py --bsz 2 -s <path to
 torchrun --standalone --nnodes=1 --nproc-per-node=4 train.py --bsz 4 -s <path to COLMAP dataset>
 ```
 
-Please see train_images.py for detailed instructions. 
+**Please see train_images.py for detailed instructions.**
 
 
 # License
@@ -78,5 +78,5 @@ Please see train_images.py for detailed instructions.
 See `LICENSE.txt` for more information.
 
 # Acknowledgements
-### [3DGS](https://github.com/graphdeco-inria/gaussian-splatting)
-### [Grendel-GS](https://github.com/nyu-systems/Grendel-GS)
+[3DGS](https://github.com/graphdeco-inria/gaussian-splatting)
+[Grendel-GS](https://github.com/nyu-systems/Grendel-GS)
