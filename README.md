@@ -78,5 +78,5 @@ torchrun --standalone --nnodes=1 --nproc-per-node=4 train.py --bsz 4 -s <path to
 See `LICENSE.txt` for more information.
 
 # Acknowledgements
-[3DGS](https://github.com/graphdeco-inria/gaussian-splatting)
+[3DGS](https://github.com/graphdeco-inria/gaussian-splatting), 
 [Grendel-GS](https://github.com/nyu-systems/Grendel-GS)
