@@ -30,9 +30,9 @@ _<h4>Large-Scale 3D Gaussian Splatting Pruning via Neighbor Voting</h4>_
 
 # Overview
 
-We propose **VoteGS**, a novel pruning framework for large-scale 3DGS that integrates neighbor voting, merging similar
+We propose **CDGaussian**, a novel pruning framework for large-scale 3DGS that integrates collective decision, merging similar
 Gaussians, cross-GPU probability synchronization, PSNR-based evaluation feedback to address core challenges in
-the field. Our framework achieves up to **5×** model-size compression during training while maintaining high rendering quality,
+the field. Our framework achieves up to **9×** model-size compression during training while maintaining high rendering quality,
 regardless of scene scale. Extensive experiments demonstrate that VoteGS surpasses all existing methods, indicating strong potential for 3D reconstruction.
 
 ## Setup
