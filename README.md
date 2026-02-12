@@ -24,7 +24,7 @@ _<h4>Large-Scale 3D Gaussian Splatting Pruning via Collective Decision</h4>_
 <div align="left">
 
 <div align="center">
-    <img src="assets/teaser.png" width="900">
+    <img src="assets/teaser2.png" width="900">
 </div>
 
 
