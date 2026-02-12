@@ -40,14 +40,14 @@ regardless of scene scale. Extensive experiments demonstrate that CDGaussian sur
 ### Cloning Code
 
 ```shell
-git clone git@github.com:aicodeclub/VoteGS_Code.git --recursive
+git clone https://github.com/aicodeclub/CDGaussian_Code.git --recursive
 ```
 
 ### Pytorch Environment
 
 ```
 conda env create --file environment.yml
-conda activate votegs
+conda activate cdgaussian
 ```
 
 **Since conda downloads are very slow, please use mamba instead to speed up the installation process.**
