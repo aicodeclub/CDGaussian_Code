@@ -15,9 +15,9 @@
 
 <div align="center">
 
-VoteGS
+CDGaussian
 ===========================
-_<h4>Large-Scale 3D Gaussian Splatting Pruning via Neighbor Voting</h4>_
+_<h4>Large-Scale 3D Gaussian Splatting Pruning via Collective Decision</h4>_
 
 ### [Project Page](https://aicodeclub.github.io/VoteGS/)
 
